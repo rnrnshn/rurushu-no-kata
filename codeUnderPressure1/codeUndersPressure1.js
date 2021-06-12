@@ -3,6 +3,3 @@
 const doubleInteger = i => i * 2;
 
 doubleInteger(5); // 10
-
-
-
