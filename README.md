@@ -1,6 +1,6 @@
 # Rurushu no kata
 
-This is me trying to solve [Codewars](https://www.codewars.com/) katas.
+This is me trying to solve [Codewars](https://www.codewars.com/) katas. Well, yeah
 
 ## What is a kata?
 
